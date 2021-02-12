@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Check out some of my data viz & modeling work at: zjalexzhou.github.io/portfolio/
+Check out some of my data viz & modeling work at: [Link to portfolio](zjalexzhou.github.io/portfolio/)
 
 <!--
 **zjalexzhou/zjalexzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
