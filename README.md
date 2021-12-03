@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there 👋 This is ZJ. 再远的风景啊，我们会到达。
 
 Check out some of my data viz & modeling work at: [ZJ's portfolio](https://zjalexzhou.github.io/portfolio/)
 
